@@ -5,9 +5,9 @@ This project enables reading public data from contactless EMV cards such as PAN,
 
 <div align="center">
 
-| EMV Card Scan | TLV Parsed Data |
+| Idle State | Card Read State |
 |---------------|-----------------|
-| <img src="https://github.com/user-attachments/assets/9289c519-2f4d-4934-a5fd-52e6659ad831" width="300"/> | <img src="https://github.com/user-attachments/assets/19fd055c-90c5-4cb9-be09-b9d4c5a42271" width="300"/> |
+<img src="https://github.com/user-attachments/assets/19fd055c-90c5-4cb9-be09-b9d4c5a42271" width="300"/> | <img src="https://github.com/user-attachments/assets/9289c519-2f4d-4934-a5fd-52e6659ad831" width="300"/>
 
 </div>
 
